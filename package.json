@@ -1,0 +1,15 @@
+{
+  "name": "agrilink-barangayfix-site",
+  "version": "1.0.0",
+  "description": "Pure CSS logo showcase for AgriLink and BarangayFix",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
